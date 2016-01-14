@@ -4,7 +4,7 @@
   "version": "0.0.0",
   "author": "{{author}}",
   "bugs": {
-    "url": "{{repository}}issues"
+    "url": "{{repository}}/issues"
   },
   "homepage": "{{repository}}#readme",
   "license": "MIT",
