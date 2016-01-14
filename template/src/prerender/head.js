@@ -1,1 +1,1 @@
-module.exports = '<title>Project Starter</title>'
+module.exports = '<title>{{basename}}</title>'
